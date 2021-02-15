@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 #### :two_hearts: I love my dog:dog:, tennis:tennis: and golf:golf:
 
 ### GitHub Status:mortar_board:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llien30)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llien30&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llien30&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 ### GitHub Trophy :trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
