@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 ![](header.png)
 
-I'm a fourth-year undergraduate student at Keio University:blush:
+#### I'm a fourth-year undergraduate student at Keio University:blush:
 
-##### :mag_right: I'm doing research in the field of computer vision(especially on anomaly detection)
-##### 🌱 I’m currently learning Nuxt.js, Algorithm and Data Structure, OS
-##### :two_hearts: I love my dogs:dog:, tennis:tennis: and golf:golf:
+#### :mag_right: I'm doing research in the field of computer vision(especially on anomaly detection)
+#### 🌱 I’m currently learning Nuxt.js, Algorithm and Data Structure, OS
+#### :two_hearts: I love my dog:dog:, tennis:tennis: and golf:golf:
+
 ### GitHub Trophy :trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
