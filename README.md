@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning Nuxt.js, Algorithm and Data Structure, OS
 #### :two_hearts: I love my dog:dog:, tennis:tennis: and golf:golf:
 
+
+
 ### GitHub Streak:boom:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llien30&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llien30&theme=blueberry_duo)](https://git.io/streak-stats)
 
 ### GitHub Status:mortar_board:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llien30&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br>
