@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](header.png)
 
-#### I'm a first-year master's student at Keio University:blush:
+#### I'm a first-year Ph.D. student at Keio University:blush:
 
-#### :mag_right: My research topic is Computer Vision (Anomaly Detection, Event Camera) and Federated Learning.
-#### 🌱 I’m currently learning Nuxt.js, Algorithm and Data Structure, OS
-#### :two_hearts: I love my dog:dog:, tennis:tennis: and golf:golf:
+#### :mag_right: My research interests lie in 3D Computer Vision.
 
 
 
