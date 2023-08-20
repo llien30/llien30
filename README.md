@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a first-year Ph.D. student at Keio University:blush:
+Hi there, I'm Mana Masuda👋
 
-#### :mag_right: My research interests lie in 3D Computer Vision.
+😝 I'm a Ph.D. student at Keio University <br>
+👀 My research interests lie in 3D Computer Vision.
 
 
-
+<!--
 ### GitHub Streak:boom:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=llien30&theme=blueberry_duo)](https://git.io/streak-stats)
+-->
 
 ### GitHub Status:mortar_board:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llien30&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llien30&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <br>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llien30&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Trophy :trophy:
